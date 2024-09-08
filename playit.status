@@ -1,1158 +1,985 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
-MSG: Failed to load data from api
-retrying in 3 seconds
-Error: TooManyRequests
-[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829303264 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725834281359 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829306369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834284423 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829321469 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834287497 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829324523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834290554 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829339630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834293610 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829342698 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834296697 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829345758 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834299761 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829360862 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834302828 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829363930 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834305897 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829366984 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834308961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829382082 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834312024 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829385168 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834315079 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829400276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834318135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829403342 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834321192 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829418461 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834324259 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829421516 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834327323 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829424597 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834330395 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829439681 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834333458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829442738 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834336525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829445798 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834339586 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829460902 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834342652 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829463977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834345704 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829479076 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834348764 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829482147 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834351825 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829485211 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834354888 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829500298 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834357947 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829503358 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834361025 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829518446 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834364092 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829521510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834367147 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829524581 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834370198 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829539707 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834373268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829542771 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834376327 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829545843 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834379389 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829560934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834382452 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829563992 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834385509 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829567053 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834388567 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829582135 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834391625 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829585198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834394696 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829600291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834397759 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829603350 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834400831 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829606407 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834403893 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829621515 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834406957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829624572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834410026 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829639705 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834413090 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829642764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834416166 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829645820 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834419223 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829660905 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834422286 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829663963 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834425348 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829667068 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834428418 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829682151 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834431484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829685225 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834434562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829700335 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834437623 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829703393 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834440689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829706461 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834443751 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829721564 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834446840 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829724652 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834449932 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829739793 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834453001 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829742848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834456063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829745907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834459122 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829761008 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834462269 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829764067 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834465326 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829767123 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834468387 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829782220 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834471453 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829785275 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834474526 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829800361 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834477587 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829803416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834480676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829806476 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834483751 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829821570 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834486810 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829824635 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834489882 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829839731 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834492948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829842786 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834496020 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829845841 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834499381 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829860942 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834502440 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829864005 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834505495 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829867073 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834508548 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829882170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834511601 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829885227 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834514656 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829900313 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834517736 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829903373 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834520803 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829906448 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834523861 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829921554 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834526921 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829924619 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834529977 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829927681 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834533032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829942766 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834536091 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829945828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834539186 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829961046 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834542256 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829964122 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834545340 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829967182 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834548401 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725829982274 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834551466 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829985335 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834554534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725829988392 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834557594 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830003475 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834560658 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830006530 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834563728 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830021637 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834566788 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830024691 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834569861 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830039799 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834572927 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830042855 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834575990 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830045941 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834579052 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830061020 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834582115 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830064221 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834585186 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830067287 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834588269 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830082384 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834591331 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830085447 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834594391 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830100548 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834597455 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830103612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834600525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830106669 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834603585 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830121755 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834606648 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830124832 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834609710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830139922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834612797 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830142983 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834615861 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830146037 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834618934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830161116 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834622002 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830164186 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834625059 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830167269 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834628128 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830182371 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834631199 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830185434 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834634256 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830200524 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834637316 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830203586 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834640381 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830206639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834643449 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830221778 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834646513 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830224843 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834649586 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830227908 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834652648 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830243014 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834655718 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830246087 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834658783 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830261179 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834661914 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830264235 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834664976 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830267292 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834668035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830282402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834671094 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830285463 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834674158 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830300560 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834677215 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830303635 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834680276 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830306711 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834683356 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830321800 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834686424 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830324861 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834689488 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830327927 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834692554 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830343018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834695617 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830346090 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834698683 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830361183 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834701747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830364239 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834704814 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830379340 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834707882 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830382402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834710939 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830385461 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834714029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830400560 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834717088 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830403621 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834720149 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830418722 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834723211 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830421785 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834726274 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830424857 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834729347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830439968 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834732406 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830443035 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834735465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830446097 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834738529 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830461199 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834741597 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830464269 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834744665 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830467332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834747739 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830482449 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834750805 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830485537 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834753863 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830500753 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834756924 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830503811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834759982 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830506871 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834763046 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830521965 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834766136 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830525091 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834769278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830528157 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834772332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830543258 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834775423 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830546325 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834778497 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830561416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834781572 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830564475 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834784633 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830567536 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834787688 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830582647 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834790749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830585705 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834793817 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830588793 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834796875 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830603890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834799980 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830606949 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834803045 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830622048 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834806105 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830625108 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834809170 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830640219 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834812283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830643291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834815360 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830646352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834818417 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830661454 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834821496 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830664518 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834824556 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830667599 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834827620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830682694 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834830673 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830685756 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834833732 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830700854 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834836791 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830703914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834839860 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830706980 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834842923 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725830722112 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834845983 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830725171 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834849051 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725830728233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725834852111 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725834855172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834858228 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834861290 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834864346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834867434 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834870491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834873548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834876603 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834879674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725834882732 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+friday-ooo.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
